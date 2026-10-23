@@ -14,4 +14,5 @@ if(i%3===0 && i%5===0){
        console.log (i);
   }
 }
- // MEME chose mais avec case
+ // MEME chose mais avec cas
+ 
